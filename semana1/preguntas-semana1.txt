@@ -1,0 +1,8 @@
+Pregunta 1:
+Respuesta: B. El uso responsable de la tecnología para informarse, participar y compartir información de manera ética.
+
+Pregunta 2:
+Respuesta: C. Para evitar difundir información falsa o engañosa.
+
+Pregunta 3:
+Respuesta: B. Una lista de pasos ordenados para resolver un problema.
