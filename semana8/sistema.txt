@@ -1,0 +1,13 @@
+Comando uname -a:
+Muestra información completa del sistema operativo, incluyendo el nombre
+del kernel, la versión, la arquitectura del procesador y el nombre del equipo.
+Es útil para identificar qué versión del sistema está corriendo en el servidor.
+
+Comando whoami:
+Muestra el nombre del usuario que está ejecutando la sesión actual en la terminal.
+Es importante para saber con qué nivel de permisos se están ejecutando los comandos,
+ya que un usuario root tiene acceso total al sistema y puede modificar cualquier archivo.
+
+Conocer esta información al administrar un servidor permite detectar
+configuraciones incorrectas, verificar que los servicios corren con los
+permisos adecuados y documentar el entorno para futuras auditorías.

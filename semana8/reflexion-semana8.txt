@@ -1,0 +1,19 @@
+La seguridad digital es un pilar fundamental para cualquier plataforma
+tecnológica que involucre la participación de comunidades, porque estas
+plataformas manejan información sensible como datos personales, reportes
+ciudadanos y credenciales de acceso que, si caen en manos equivocadas,
+pueden poner en riesgo tanto a las personas como a los procesos que la
+comunidad ha construido con esfuerzo.
+
+Una plataforma insegura no solo expone datos, sino que también destruye
+la confianza de los participantes, lo cual es especialmente grave en
+contextos de participación ciudadana donde la gente necesita sentir que
+su información está protegida para atreverse a reportar irregularidades
+o expresar opiniones sin temor a represalias.
+
+Aplicar prácticas como el cifrado de datos, la gestión de roles, el uso
+de variables de entorno y el registro de accesos no es un lujo técnico,
+sino una responsabilidad ética hacia quienes confían en la plataforma.
+En definitiva, proteger una plataforma comunitaria es proteger a las
+personas que la usan y garantizar que la participación digital sea
+un espacio seguro, confiable y sostenible en el tiempo.
