@@ -1,0 +1,17 @@
+Contar con una plataforma tecnológica para registrar y consultar reportes
+comunitarios es fundamental porque permite que la información quede organizada,
+disponible y trazable en el tiempo, a diferencia de los canales informales donde
+los mensajes se pierden fácilmente entre cientos de conversaciones.
+
+Cuando una comunidad puede registrar incidencias de forma estructurada, cada
+reporte queda identificado con un tipo y una descripción clara, lo que facilita
+que las autoridades o administradores comprendan el problema sin necesidad de
+hacer preguntas adicionales. Además, al poder consultar la lista de reportes,
+es posible identificar patrones recurrentes, como zonas con problemas frecuentes
+de infraestructura o sectores con mayor acumulación de residuos, y tomar
+decisiones basadas en datos reales en lugar de percepciones individuales.
+
+Este tipo de sistemas también genera confianza en la ciudadanía porque las
+personas sienten que su reporte queda registrado formalmente y puede ser
+revisado, lo cual incentiva una mayor participación y compromiso colectivo
+con el bienestar de la comunidad.

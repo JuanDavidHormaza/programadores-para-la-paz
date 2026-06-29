@@ -1,0 +1,21 @@
+Al enviar una petición POST a /reportes con los campos "tipo" y "descripcion",
+el servidor crea un objeto con un id autogenerado y lo agrega al array en memoria,
+devolviendo una confirmación con el reporte registrado.
+
+Al consultar GET /reportes, el servidor devuelve la lista completa de reportes
+almacenados en memoria durante esa sesión. Si el servidor se reinicia, la lista
+vuelve a estar vacía porque los datos no se guardan en una base de datos.
+
+Respuesta esperada al consultar GET /reportes:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
