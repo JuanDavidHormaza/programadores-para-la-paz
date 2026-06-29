@@ -1,0 +1,7 @@
+pwd
+ls
+mkdir semana2
+cd semana2
+New-Item preguntas-semana2.txt -ItemType File
+New-Item comandos-terminal.txt -ItemType File
+New-Item reflexion-semana2.txt -ItemType File
