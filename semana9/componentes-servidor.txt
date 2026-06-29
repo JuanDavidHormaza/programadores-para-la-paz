@@ -1,0 +1,24 @@
+Sistema operativo:
+Es la base que administra el hardware del equipo y permite que los demás
+programas se ejecuten. En servidores es común usar Linux porque es estable,
+seguro y de código abierto.
+
+Node.js:
+Es el entorno de ejecución que permite correr código JavaScript fuera del
+navegador. En este proyecto permite que el archivo server.js funcione como
+un servidor web capaz de recibir y responder solicitudes HTTP.
+
+Aplicación server.js:
+Es el archivo principal que define las rutas, la lógica de respuesta y el
+puerto en el que escucha el servidor. Contiene toda la configuración de la
+API construida con Express.
+
+Puerto:
+Es el canal numérico por el que el servidor escucha solicitudes. En este
+proyecto se usa el puerto 3000. Permite que múltiples servicios corran en
+el mismo equipo sin interferirse entre sí.
+
+Logs:
+Son registros que documentan la actividad del servidor, como solicitudes
+recibidas, errores producidos y eventos importantes. Permiten detectar
+problemas, auditar el uso del sistema y mantener la estabilidad del servicio.

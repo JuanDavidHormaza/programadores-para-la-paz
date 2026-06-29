@@ -1,0 +1,17 @@
+Para una comunidad que depende de una plataforma digital para reportar
+incidencias, consultar información o participar en procesos colectivos,
+la estabilidad y seguridad del servidor no es un detalle técnico menor
+sino una condición fundamental para que esa participación sea posible.
+
+Si el servidor cae frecuentemente o no registra correctamente los errores,
+los reportes de los ciudadanos pueden perderse, las consultas pueden fallar
+y la confianza en la herramienta se deteriora rápidamente. Un servidor
+estable garantiza que la información siempre esté disponible cuando se
+necesita, especialmente en situaciones de urgencia como alertas comunitarias.
+
+La seguridad del servidor también protege los datos de quienes participan,
+evitando que información sensible quede expuesta a personas no autorizadas.
+Monitorear la ejecución, mantener logs actualizados y gestionar correctamente
+los puertos y permisos son prácticas que no solo cuidan el sistema sino que
+demuestran responsabilidad hacia la comunidad que confía en esa plataforma
+para organizarse y hacer valer sus derechos colectivos.
