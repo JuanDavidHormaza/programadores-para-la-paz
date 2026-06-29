@@ -1,0 +1,14 @@
+Las APIs permiten que distintos sistemas intercambien información de forma
+organizada y segura. En el contexto comunitario, una API podría ser el canal
+a través del cual los habitantes de un barrio envíen reportes, alertas o
+solicitudes directamente desde una aplicación móvil o página web hacia un
+servidor central.
+
+Por ejemplo, una comunidad podría usar una API para reportar daños en
+infraestructura, informar sobre situaciones de riesgo o compartir avisos
+importantes. Toda esa información llegaría estructurada al servidor, donde
+podría almacenarse, clasificarse y ser consultada por las autoridades.
+
+Esto evita la confusión que genera el uso de canales informales como grupos
+de WhatsApp, y garantiza que cada reporte quede registrado con fecha, contenido
+y estado de atención, facilitando la gestión comunitaria de manera eficiente.

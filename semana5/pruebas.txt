@@ -1,0 +1,8 @@
+Ruta /
+Respuesta: muestra el texto "Servidor activo". Confirma que el servidor está funcionando.
+
+Ruta /saludo
+Respuesta: muestra el texto "Hola comunidad". Es una ruta de bienvenida fija.
+
+Ruta /mensaje/juan
+Respuesta: muestra "Hola juan". El servidor toma el nombre de la URL y lo usa en la respuesta.

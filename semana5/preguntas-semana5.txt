@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta: B. Una dirección que define cómo responde el servidor a una solicitud
+
+Pregunta 2:
+Respuesta: B. GET
+
+Pregunta 3:
+Respuesta: A. POST
+
+Pregunta 4:
+Respuesta: B. Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí
