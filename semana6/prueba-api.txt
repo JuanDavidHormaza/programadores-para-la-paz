@@ -1,0 +1,12 @@
+Al enviar una petición POST a /registro con los campos "nombre" y "mensaje"
+en formato JSON, el servidor responde con un objeto JSON confirmando que los
+datos fueron recibidos correctamente:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto confirma que express.json() interpreta correctamente el cuerpo de la
+petición y que el servidor puede leer los datos enviados desde req.body.

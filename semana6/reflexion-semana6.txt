@@ -1,0 +1,14 @@
+Que las plataformas tecnológicas puedan recibir información estructurada de
+los ciudadanos es fundamental porque garantiza que los reportes lleguen de
+forma organizada, completa y comprensible para quienes deben atenderlos.
+Cuando un ciudadano puede enviar datos como el tipo de problema y su
+descripción a través de un formulario o API, se evita la ambigüedad que
+generan los mensajes informales por redes sociales o llamadas telefónicas.
+La información estructurada también facilita su almacenamiento, consulta y
+análisis posterior, permitiendo identificar problemas recurrentes en la
+comunidad y tomar decisiones basadas en datos reales. Además, este tipo de
+sistemas genera confianza en la ciudadanía porque las personas saben que su
+reporte queda registrado formalmente y puede ser rastreado. En conclusión,
+estructurar la recepción de información fortalece la relación entre la
+comunidad y las instituciones, haciendo la participación ciudadana más
+efectiva y transparente.

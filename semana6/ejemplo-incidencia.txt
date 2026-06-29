@@ -1,0 +1,10 @@
+Ejemplo de JSON para reportar una incidencia comunitaria:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Este JSON se enviaría mediante una petición POST a /incidencia, permitiendo
+que el ciudadano describa el tipo de problema y su detalle para que quede
+registrado en el sistema.
