@@ -1,0 +1,14 @@
+Tareas que haría primero:
+
+1. Registrar una incidencia.
+2. Recibir alertas en Telegram.
+
+¿Por qué son las más importantes?
+
+Porque permiten que la comunidad reporte situaciones y que el equipo sea notificado rápidamente para dar seguimiento.
+
+Definición de terminado:
+
+1. La funcionalidad funciona correctamente.
+2. Fue probada y validada.
+3. Quedó registrada en Git mediante un commit.
