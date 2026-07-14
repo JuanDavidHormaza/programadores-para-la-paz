@@ -1,0 +1,7 @@
+1. Un ciudadano crea una causa en la plataforma.
+2. La causa queda registrada en la base de datos.
+3. Otros ciudadanos pueden visualizar la causa.
+4. Los ciudadanos apoyan la causa registrando su participación.
+5. El sistema cuenta automáticamente los apoyos recibidos.
+6. Cuando la causa alcanza una cantidad determinada de apoyos, se genera un documento PDF.
+7. El documento puede ser compartido con autoridades o entidades correspondientes.
